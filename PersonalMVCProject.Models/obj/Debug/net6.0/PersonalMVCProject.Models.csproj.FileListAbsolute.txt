@@ -1,0 +1,12 @@
+C:\Users\thoma\workspace\PersonalMVCProject\PersonalMVCProject.Models\bin\Debug\net6.0\PersonalMVCProject.Models.deps.json
+C:\Users\thoma\workspace\PersonalMVCProject\PersonalMVCProject.Models\bin\Debug\net6.0\PersonalMVCProject.Models.dll
+C:\Users\thoma\workspace\PersonalMVCProject\PersonalMVCProject.Models\bin\Debug\net6.0\ref\PersonalMVCProject.Models.dll
+C:\Users\thoma\workspace\PersonalMVCProject\PersonalMVCProject.Models\bin\Debug\net6.0\PersonalMVCProject.Models.pdb
+C:\Users\thoma\workspace\PersonalMVCProject\PersonalMVCProject.Models\obj\Debug\net6.0\PersonalMVCProject.Models.csproj.AssemblyReference.cache
+C:\Users\thoma\workspace\PersonalMVCProject\PersonalMVCProject.Models\obj\Debug\net6.0\PersonalMVCProject.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\workspace\PersonalMVCProject\PersonalMVCProject.Models\obj\Debug\net6.0\PersonalMVCProject.Models.AssemblyInfoInputs.cache
+C:\Users\thoma\workspace\PersonalMVCProject\PersonalMVCProject.Models\obj\Debug\net6.0\PersonalMVCProject.Models.AssemblyInfo.cs
+C:\Users\thoma\workspace\PersonalMVCProject\PersonalMVCProject.Models\obj\Debug\net6.0\PersonalMVCProject.Models.csproj.CoreCompileInputs.cache
+C:\Users\thoma\workspace\PersonalMVCProject\PersonalMVCProject.Models\obj\Debug\net6.0\PersonalMVCProject.Models.dll
+C:\Users\thoma\workspace\PersonalMVCProject\PersonalMVCProject.Models\obj\Debug\net6.0\ref\PersonalMVCProject.Models.dll
+C:\Users\thoma\workspace\PersonalMVCProject\PersonalMVCProject.Models\obj\Debug\net6.0\PersonalMVCProject.Models.pdb
