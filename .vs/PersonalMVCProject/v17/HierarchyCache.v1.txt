@@ -13,50 +13,104 @@ i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcpro
 ++tinymce.min.js
 ++aspnetcore-browser-refresh.js
 ++browserLink
+++PersonalMVCProject.Utility
+i:{00000000-0000-0000-0000-000000000000}:PersonalMVCProject.Utility
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.utility\bin\debug\net6.0\personalmvcproject.utility.dll
+++Dependencies
+i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:>2278
+i:{b534d57f-70ed-4085-a373-d0300994ced6}:>2279
+i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:>2280
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:>3159
+++EmailSender.cs
+i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.utility\emailsender.cs
+++SD.cs
+i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.utility\sd.cs
+++Analyzers
+i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:analyzers
+i:{b534d57f-70ed-4085-a373-d0300994ced6}:analyzers
+i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:analyzers
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:analyzers
+++Frameworks
+i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:frameworks
+i:{b534d57f-70ed-4085-a373-d0300994ced6}:frameworks
+i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:frameworks
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:frameworks
+++Packages
+i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:packages
+i:{b534d57f-70ed-4085-a373-d0300994ced6}:packages
+i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:packages
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:packages
+++Microsoft.AspNetCore.App.Analyzers
+i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:c:\users\thoma\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\users\thoma\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:c:\users\thoma\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\users\thoma\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:c:\users\thoma\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.utility\microsoft.netcore.app
+i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.dataaccess\microsoft.netcore.app
+i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.models\microsoft.netcore.app
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\microsoft.netcore.app
+++Microsoft.AspNetCore.Identity.UI (6.0.6)
+i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:>3205
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:>3212
+++Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation (6.0.6)
+i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:>3203
+i:{b534d57f-70ed-4085-a373-d0300994ced6}:>3229
 ++PersonalMVCProject.DataAccess
 i:{00000000-0000-0000-0000-000000000000}:PersonalMVCProject.DataAccess
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.dataaccess\bin\debug\net6.0\personalmvcproject.dataaccess.dll
-++Dependencies
-i:{b534d57f-70ed-4085-a373-d0300994ced6}:>2206
-i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:>2205
-i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:>2207
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:>2997
 ++Data
 i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.dataaccess\data\
-++ApplicationDbContext.cs
-i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.dataaccess\data\applicationdbcontext.cs
 ++Migrations
 i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.dataaccess\migrations\
 ++Repository
 i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.dataaccess\repository\
-++Analyzers
-i:{b534d57f-70ed-4085-a373-d0300994ced6}:analyzers
-i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:analyzers
-i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:analyzers
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:analyzers
-++Frameworks
-i:{b534d57f-70ed-4085-a373-d0300994ced6}:frameworks
-i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:frameworks
-i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:frameworks
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:frameworks
-++Packages
-i:{b534d57f-70ed-4085-a373-d0300994ced6}:packages
-i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:packages
-i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:packages
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:packages
 ++Projects
 i:{b534d57f-70ed-4085-a373-d0300994ced6}:projects
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:projects
-++20220703210035_AddCategoryToDatabase.cs
-++20220707213438_AddCoverTypetoDb.cs
-++20220708010629_addProductToDb.cs
-++20220709213127_AddIdentityToDb.cs
+++ApplicationDbContext.cs
+i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.dataaccess\data\applicationdbcontext.cs
+++20220710041752_rebuildDbAfterError.cs
+i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.dataaccess\migrations\20220710041752_rebuilddbaftererror.cs
 ++ApplicationDbContextModelSnapshot.cs
 i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.dataaccess\migrations\applicationdbcontextmodelsnapshot.cs
 ++IRepository
 i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.dataaccess\repository\irepository\
 ++CategoryRepository.cs
 i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.dataaccess\repository\categoryrepository.cs
+++CompanyRepository.cs
+i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.dataaccess\repository\companyrepository.cs
 ++CoverTypeRepository.cs
 i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.dataaccess\repository\covertyperepository.cs
 ++ProductRepository.cs
@@ -65,76 +119,32 @@ i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\users\thoma\workspace\personalmvcpro
 i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.dataaccess\repository\repository.cs
 ++UnitOfWork.cs
 i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.dataaccess\repository\unitofwork.cs
-++Microsoft.AspNetCore.App.Analyzers
-i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
-i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
-++Microsoft.AspNetCore.App.CodeFixes
-i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
-i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
-++Microsoft.CodeAnalysis.Analyzers
-i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\users\thoma\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
-i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:c:\users\thoma\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
-++Microsoft.CodeAnalysis.CSharp.Analyzers
-i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\users\thoma\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
-i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:c:\users\thoma\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
-++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
-i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-++Microsoft.CodeAnalysis.NetAnalyzers
-i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
 ++Microsoft.EntityFrameworkCore.Analyzers
 i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\users\thoma\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.6\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.6\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
-++Microsoft.Extensions.Logging.Generators
-i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
-i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
-i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:c:\users\thoma\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
-++System.Text.Json.SourceGeneration
-i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
-i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
-i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
-++Microsoft.NETCore.App
-i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.dataaccess\microsoft.netcore.app
-i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.models\microsoft.netcore.app
-i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.utility\microsoft.netcore.app
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\microsoft.netcore.app
 ++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.6)
-i:{b534d57f-70ed-4085-a373-d0300994ced6}:>3068
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:>3080
-++Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation (6.0.6)
-i:{b534d57f-70ed-4085-a373-d0300994ced6}:>3061
-i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:>3020
+i:{b534d57f-70ed-4085-a373-d0300994ced6}:>3232
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:>3209
 ++Microsoft.EntityFrameworkCore (6.0.6)
-i:{b534d57f-70ed-4085-a373-d0300994ced6}:>3062
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:>3041
+i:{b534d57f-70ed-4085-a373-d0300994ced6}:>3230
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:>3204
 ++Microsoft.EntityFrameworkCore.Relational (6.0.6)
-i:{b534d57f-70ed-4085-a373-d0300994ced6}:>3064
+i:{b534d57f-70ed-4085-a373-d0300994ced6}:>3233
 ++Microsoft.EntityFrameworkCore.SqlServer (6.0.6)
-i:{b534d57f-70ed-4085-a373-d0300994ced6}:>3063
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:>3042
+i:{b534d57f-70ed-4085-a373-d0300994ced6}:>3231
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:>3207
 ++Microsoft.EntityFrameworkCore.Tools (6.0.6)
-i:{b534d57f-70ed-4085-a373-d0300994ced6}:>3065
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:>3044
+i:{b534d57f-70ed-4085-a373-d0300994ced6}:>3234
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:>3210
 ++PersonalMVCProject.Models
 i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.models\bin\debug\net6.0\personalmvcproject.models.dll
 i:{00000000-0000-0000-0000-000000000000}:PersonalMVCProject.Models
-++20220703210035_AddCategoryToDatabase.Designer.cs
-++20220707213438_AddCoverTypetoDb.Designer.cs
-++20220708010629_addProductToDb.Designer.cs
-++20220709213127_AddIdentityToDb.Designer.cs
+++20220710041752_rebuildDbAfterError.Designer.cs
+i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.dataaccess\migrations\20220710041752_rebuilddbaftererror.designer.cs
 ++ICategoryRepository.cs
 i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.dataaccess\repository\irepository\icategoryrepository.cs
+++ICompanyRepository.cs
+i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.dataaccess\repository\irepository\icompanyrepository.cs
 ++ICoverTypeRepository.cs
 i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.dataaccess\repository\irepository\icovertyperepository.cs
 ++IProductRepository.cs
@@ -145,10 +155,12 @@ i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\users\thoma\workspace\personalmvcpro
 i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.dataaccess\repository\irepository\iunitofwork.cs
 ++ViewModels
 i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.models\viewmodels\
-++ProductVM.cs
-i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.models\viewmodels\productvm.cs
+++ApplicationUser.cs
+i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.models\applicationuser.cs
 ++Category.cs
 i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.models\category.cs
+++Company.cs
+i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.models\company.cs
 ++CoverType.cs
 i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.models\covertype.cs
 ++ErrorViewModel.cs
@@ -157,59 +169,56 @@ i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:c:\users\thoma\workspace\personalmvcpro
 i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.models\product.cs
 ++ShoppingCart.cs
 i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.models\shoppingcart.cs
+++ProductVM.cs
+i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.models\viewmodels\productvm.cs
 ++Microsoft.AspNetCore.Mvc.ViewFeatures (2.2.0)
-i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:>3018
-++PersonalMVCProject.Utility
-i:{00000000-0000-0000-0000-000000000000}:PersonalMVCProject.Utility
-++SD.cs
-i:{cd7848de-c019-4b82-93b2-9e89defaf54d}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.utility\sd.cs
+i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:>3202
+++Microsoft.Extensions.Identity.Stores (6.0.6)
+i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:>3206
 ++PersonalMVCProject
 i:{00000000-0000-0000-0000-000000000000}:PersonalMVCProject
 ++Connected Services 
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:>2998
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:>3160
+++SQL Server Database (ConnectionStrings:DefaultConnection)
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:>3237
+++MessagePackAnalyzer
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
 ++Properties
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\properties\
-++launchSettings.json
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\properties\launchsettings.json
 ++wwwroot
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\
+++css
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\css\
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\bootstrap\dist\css\
+++images
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\images\
+++js
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\js\
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\bootstrap\dist\js\
+++company.js
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\js\company.js
+++product.js
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\js\product.js
+++lib
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\
+++favicon.ico
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\favicon.ico
 ++Areas
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\
 ++Admin
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\
-++Controllers
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\controllers\
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\customer\controllers\
-++Views
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\customer\views\
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\views\
 ++Customer
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\customer\
-++Home
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\customer\views\home\
-++Details.cshtml
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\customer\views\home\details.cshtml
-++Index.cshtml
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\customer\views\home\index.cshtml
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\identity\pages\account\manage\index.cshtml
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\category\index.cshtml
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\covertype\index.cshtml
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\product\index.cshtml
-++Privacy.cshtml
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\customer\views\home\privacy.cshtml
-++_ViewImports.cshtml
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\customer\views\_viewimports.cshtml
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\identity\pages\account\_viewimports.cshtml
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\identity\pages\_viewimports.cshtml
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\views\_viewimports.cshtml
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\_viewimports.cshtml
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\identity\pages\account\manage\_viewimports.cshtml
-++_ViewStart.cshtml
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\customer\views\_viewstart.cshtml
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\identity\pages\_viewstart.cshtml
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\views\_viewstart.cshtml
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\_viewstart.cshtml
 ++Identity
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\identity\
 ++Pages
@@ -221,6 +230,13 @@ i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcpro
 ++_StatusMessage.cshtml
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\identity\pages\account\_statusmessage.cshtml
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\identity\pages\account\manage\_statusmessage.cshtml
+++_ViewImports.cshtml
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\identity\pages\account\_viewimports.cshtml
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\identity\pages\_viewimports.cshtml
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\identity\pages\account\manage\_viewimports.cshtml
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\views\_viewimports.cshtml
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\_viewimports.cshtml
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\customer\views\_viewimports.cshtml
 ++AccessDenied.cshtml
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\identity\pages\account\accessdenied.cshtml
 ++ConfirmEmail.cshtml
@@ -258,52 +274,56 @@ i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcpro
 ++_ValidationScriptsPartial.cshtml
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\identity\pages\_validationscriptspartial.cshtml
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\views\shared\_validationscriptspartial.cshtml
+++_ViewStart.cshtml
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\identity\pages\_viewstart.cshtml
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\views\_viewstart.cshtml
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\_viewstart.cshtml
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\customer\views\_viewstart.cshtml
 ++Error.cshtml
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\identity\pages\error.cshtml
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\views\shared\error.cshtml
-++Shared
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\views\shared\
-++_Layout.cshtml
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\views\shared\_layout.cshtml
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\identity\pages\account\manage\_layout.cshtml
-++_LoginPartial.cshtml
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\views\shared\_loginpartial.cshtml
-++_Notification.cshtml
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\views\shared\_notification.cshtml
+++Views
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\views\
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\customer\views\
 ++appsettings.json
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\appsettings.json
 ++Program.cs
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\program.cs
 ++ScaffoldingReadMe.txt
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\scaffoldingreadme.txt
-++No service dependencies discovered
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:>2999
-++css
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\css\
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\bootstrap\dist\css\
-++images
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\images\
-++js
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\js\
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\bootstrap\dist\js\
-++lib
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\
-++favicon.ico
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\favicon.ico
-++CategoryController.cs
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\controllers\categorycontroller.cs
-++CoverTypeController.cs
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\controllers\covertypecontroller.cs
-++ProductController.cs
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\controllers\productcontroller.cs
-++Category
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\category\
-++CoverType
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\covertype\
-++Product
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\product\
-++HomeController.cs
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\customer\controllers\homecontroller.cs
+++SQL Server Database dependency with connectionId 'ConnectionStrings:DefaultConnection' is detected
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:>3238
+++Microsoft.AspNetCore.App
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\microsoft.aspnetcore.app
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.6)
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:>3211
+++Swashbuckle.AspNetCore (6.3.0)
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:>3208
+++launchSettings.json
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\properties\launchsettings.json
+++BootswatchThemeSketchy.css
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\css\bootswatchthemesketchy.css
+++BootswatchThemeSuperhero.css
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\css\bootswatchthemesuperhero.css
+++site.css
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\css\site.css
+++products
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\images\products\
+++bootstrap
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\bootstrap\
+++jquery
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\jquery\
+++jquery-validation
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\jquery-validation-unobtrusive\
+++Controllers
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\controllers\
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\customer\controllers\
+++_Layout.cshtml
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\identity\pages\account\manage\_layout.cshtml
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\views\shared\_layout.cshtml
 ++_ManageNav.cshtml
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\identity\pages\account\manage\_managenav.cshtml
 ++ChangePassword.cshtml
@@ -322,6 +342,13 @@ i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcpro
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\identity\pages\account\manage\externallogins.cshtml
 ++GenerateRecoveryCodes.cshtml
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\identity\pages\account\manage\generaterecoverycodes.cshtml
+++Index.cshtml
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\identity\pages\account\manage\index.cshtml
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\category\index.cshtml
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\company\index.cshtml
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\covertype\index.cshtml
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\product\index.cshtml
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\customer\views\home\index.cshtml
 ++ManageNavPages.cs
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\identity\pages\account\manage\managenavpages.cs
 ++PersonalData.cshtml
@@ -366,59 +393,53 @@ i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcpro
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\identity\pages\account\resetpasswordconfirmation.cshtml.cs
 ++Error.cshtml.cs
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\identity\pages\error.cshtml.cs
-++_Layout.cshtml.css
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\views\shared\_layout.cshtml.css
+++Shared
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\views\shared\
 ++appsettings.Development.json
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\appsettings.development.json
-++MessagePackAnalyzer
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
-++Microsoft.AspNetCore.Analyzers
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
-++Microsoft.AspNetCore.Components.Analyzers
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
-++Microsoft.AspNetCore.Mvc.Analyzers
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
-++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
-++Microsoft.NET.Sdk.Razor.SourceGenerators
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
-++Microsoft.AspNetCore.App
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\microsoft.aspnetcore.app
-++Microsoft.AspNetCore.Identity.UI (6.0.6)
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:>3079
-++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.6)
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:>3045
-++Swashbuckle.AspNetCore (6.3.0)
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:>3043
-++BootswatchThemeSketchy.css
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\css\bootswatchthemesketchy.css
-++BootswatchThemeSuperhero.css
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\css\bootswatchthemesuperhero.css
-++site.css
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\css\site.css
-++products
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\images\products\
-++product.js
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\js\product.js
-++bootstrap
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\bootstrap\
-++jquery
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\jquery\
-++jquery-validation
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\jquery-validation\
-++jquery-validation-unobtrusive
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\jquery-validation-unobtrusive\
-++Create.cshtml
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\category\create.cshtml
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\covertype\create.cshtml
-++Delete.cshtml
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\category\delete.cshtml
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\covertype\delete.cshtml
-++Edit.cshtml
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\category\edit.cshtml
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\covertype\edit.cshtml
-++Upsert.cshtml
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\product\upsert.cshtml
+++3ad6f198-6150-4e15-9bf7-f9d0170c7834.jpg
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\images\products\3ad6f198-6150-4e15-9bf7-f9d0170c7834.jpg
+++4d393415-c4d1-4d6f-ba19-6fd76f374037.jpg
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\images\products\4d393415-c4d1-4d6f-ba19-6fd76f374037.jpg
+++4f9667bd-fecc-4c70-b94c-13515df1f8a6.jpg
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\images\products\4f9667bd-fecc-4c70-b94c-13515df1f8a6.jpg
+++e53f86d9-00e0-4aa9-b1ef-32f409a1cd12.jpg
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\images\products\e53f86d9-00e0-4aa9-b1ef-32f409a1cd12.jpg
+++f7506203-2221-41d4-a814-69c456b5525a.jpg
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\images\products\f7506203-2221-41d4-a814-69c456b5525a.jpg
+++dist
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\bootstrap\dist\
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\jquery\dist\
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\jquery\license.txt
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++CategoryController.cs
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\controllers\categorycontroller.cs
+++CompanyController.cs
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\controllers\companycontroller.cs
+++CoverTypeController.cs
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\controllers\covertypecontroller.cs
+++ProductController.cs
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\controllers\productcontroller.cs
+++Category
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\category\
+++Company
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\company\
+++CoverType
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\covertype\
+++Product
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\product\
+++HomeController.cs
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\customer\controllers\homecontroller.cs
+++Home
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\customer\views\home\
 ++ChangePassword.cshtml.cs
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\identity\pages\account\manage\changepassword.cshtml.cs
 ++DeletePersonalData.cshtml.cs
@@ -447,23 +468,10 @@ i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcpro
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\identity\pages\account\manage\showrecoverycodes.cshtml.cs
 ++TwoFactorAuthentication.cshtml.cs
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\identity\pages\account\manage\twofactorauthentication.cshtml.cs
-++e53f86d9-00e0-4aa9-b1ef-32f409a1cd12.jpg
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\images\products\e53f86d9-00e0-4aa9-b1ef-32f409a1cd12.jpg
-++f7506203-2221-41d4-a814-69c456b5525a.jpg
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\images\products\f7506203-2221-41d4-a814-69c456b5525a.jpg
-++dist
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\bootstrap\dist\
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\jquery\dist\
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\jquery-validation\dist\
-++LICENSE
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\bootstrap\license
-++LICENSE.txt
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\jquery\license.txt
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\jquery-validation-unobtrusive\license.txt
-++LICENSE.md
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\jquery-validation\license.md
-++jquery.validate.unobtrusive.js
-i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++_LoginPartial.cshtml
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\views\shared\_loginpartial.cshtml
+++_Notification.cshtml
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\views\shared\_notification.cshtml
 ++jquery.js
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\jquery\dist\jquery.js
 ++additional-methods.js
@@ -472,6 +480,24 @@ i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcpro
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\jquery-validation\dist\jquery.validate.js
 ++jquery.validate.unobtrusive.min.js
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++Create.cshtml
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\category\create.cshtml
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\covertype\create.cshtml
+++Delete.cshtml
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\category\delete.cshtml
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\covertype\delete.cshtml
+++Edit.cshtml
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\category\edit.cshtml
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\covertype\edit.cshtml
+++Upsert.cshtml
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\company\upsert.cshtml
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\admin\views\product\upsert.cshtml
+++Details.cshtml
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\customer\views\home\details.cshtml
+++Privacy.cshtml
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\areas\customer\views\home\privacy.cshtml
+++_Layout.cshtml.css
+i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\views\shared\_layout.cshtml.css
 ++bootstrap.css
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\bootstrap\dist\css\bootstrap.css
 ++bootstrap-grid.css
@@ -564,37 +590,3 @@ i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcpro
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
 ++bootstrap.esm.min.js.map
 i:{d67001ec-7855-4c31-97f0-54422f0a0e89}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject-web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
-++VM5
-++ApplicationUser.cs
-i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.models\applicationuser.cs
-++Microsoft.Extensions.Identity.Stores (6.0.6)
-i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:>3245
-++20220709215830_extendIdentityUser.cs
-++20220709215830_extendIdentityUser.Designer.cs
-++Upsert
-++icons.min.js
-++plugin.min.js
-++theme.min.js
-++model.min.js
-++tinycomments-sidebar.min.js
-++wordimport.js
-++CompanyUser.cs
-++20220709221318_addCompanyUserToDb.cs
-++20220709221318_addCompanyUserToDb.Designer.cs
-++CompanyUserRepository.cs
-++IProductRepository - Copy.cs
-++ICompanyUserRepository.cs
-++Company.cs
-i:{952aa2ea-fd0e-479a-b081-46073a5e3223}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.models\company.cs
-++20220710035420_updateCompanyDbDetail.cs
-++20220710035420_updateCompanyDbDetail.Designer.cs
-++20220710035924_removeCompanyUsersFromDb.cs
-++20220710035924_removeCompanyUsersFromDb.Designer.cs
-++20220710040259_removeCompanyUsersFromDb.cs
-++20220710040259_removeCompanyUsersFromDb.Designer.cs
-++20220710041011_addCompanyToDb.cs
-++20220710041011_addCompanyToDb.Designer.cs
-++20220710041752_rebuildDbAfterError.cs
-i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.dataaccess\migrations\20220710041752_rebuilddbaftererror.cs
-++20220710041752_rebuildDbAfterError.Designer.cs
-i:{b534d57f-70ed-4085-a373-d0300994ced6}:c:\users\thoma\workspace\personalmvcproject\personalmvcproject.dataaccess\migrations\20220710041752_rebuilddbaftererror.designer.cs
